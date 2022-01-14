@@ -1,9 +1,5 @@
-<h2 align="center">Scripted</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/?username=Scripted-1337&title_color=4F8CC9&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" />
-</p>
-
-<p align="center">
-  <img src="https://discord.c99.nl/widget/theme-1/920242349169336371.png" />
-</p>
+![H](https://media.discordapp.net/attachments/931550943575670844/931592411040325682/raw.png)
+## Hello & Welcome to my Profile
+### - 📜 I'm good at Python, HTML, CSS
+### - 🌱 I'm currently learning Flask.
+### - 🌸 My official contacts: scripted#1429.
