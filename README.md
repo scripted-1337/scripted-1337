@@ -2,4 +2,4 @@
 ## Hello & Welcome to my Profile
 ### - 📜 I'm good at Python, HTML, CSS
 ### - 🌱 I'm currently learning Flask.
-### - 🌸 My official contacts: Mallowies#5549.
+### - 🌸 My contacts: https://solo.to/mallowies.
